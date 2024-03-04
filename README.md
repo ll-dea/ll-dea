@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, Dea (She/Her) here 👋
+- I'm currently studying computer and software engineering.
+- Connect with me in LinkedIn: [Dea Llapatinca](https://www.linkedin.com/in/dea-llapatinca-2a0251270/)
+
+
+
 
 <!--
 **ll-dea/ll-dea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
