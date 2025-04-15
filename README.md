@@ -7,7 +7,6 @@
 
 ## 📫 Let's Connect!
 
-- [GitHub](https://github.com/ll-dea)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 
